@@ -1,6 +1,5 @@
-# include<stdio.h>
 
-// wap to calcualte area of a cricle:
+# include<stdio.h>
 int main(){
 float radius;
 printf(" enter radius:");
